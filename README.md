@@ -20,9 +20,8 @@ LIMIT 1;
 ```
 # Задание 3:
 
-         r(1 + r)^n
-A = P * _____________
-        (1 + r)^n - 1
+![image](https://github.com/Nikolairopin/bank/assets/126417867/c91b08c1-83fc-44fe-afa0-9b638c9198d6)
+
 
 Где:
 
